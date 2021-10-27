@@ -4,7 +4,7 @@
   "description": "High-speed HTTP logger for Node.js",
   "main": "logger.js",
   "type": "commonjs",
-  "types": "pino-http.d.ts",
+  "types": "logger.d.ts",
   "dependencies": {
     "fast-url-parser": "^1.1.3",
     "pino": "^7.0.5",
